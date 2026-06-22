@@ -26,8 +26,4 @@
     <ProjectReference Include="..\ParadowSync.Automation\ParadowSync.Automation.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ApplicationDefinition Include="App.xaml" />
-  </ItemGroup>
-
 </Project>
