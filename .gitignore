@@ -1,0 +1,26 @@
+# Build
+bin/
+obj/
+out/
+*.user
+*.suo
+
+# Worktrees
+.worktrees/
+
+# IDE
+.vs/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Spike throwaway build
+spike/**/bin/
+spike/**/obj/
+
+# Secrets
+.env
+*.pfx
